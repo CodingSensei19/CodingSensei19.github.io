@@ -1,11 +1,11 @@
 # Site settings
 author: Aaron Wilson
-title: 
+title: Why I got into Software Engineering
 header-img: img/home-bg.png
 email: codingsensei19@gmail.com
 copyright_name: Aaron Wilson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Getting into Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CodingSensei19
